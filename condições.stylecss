@@ -1,0 +1,16 @@
+    body {
+      background: #9370DB;
+    }
+
+    #botao {
+      background-color: #ddd;
+      border: none;
+      padding: 8px 16px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    #botao.clicado {
+      background-color:	#4B0082;
+      color: white;
+    }
